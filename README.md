@@ -1,2 +1,4 @@
-# ping_pong_game
-A simple game with Pygame
+# INTRODUCTION
+* a simple system to run a ***Ping-Pong Game***
+
+> Have fun XD
